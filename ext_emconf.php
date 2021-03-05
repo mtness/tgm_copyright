@@ -19,11 +19,10 @@ $EM_CONF[$_EXTKEY] = [
 	'constraints' => [
 		'depends' => [
 			'typo3' => '10.4.8-10.4.99',
-			'filemetadata' => '10.4.8-10.4.99',
-        ],
+		],
 		'conflicts' => [
-        ],
+		],
 		'suggests' => [
-        ],
-    ],
+		],
+	],
 ];
